@@ -23,6 +23,7 @@ body {
 
 .header__message {
     position: relative;
+    cursor: pointer;
 }
 
 .header__message-wrapper {
