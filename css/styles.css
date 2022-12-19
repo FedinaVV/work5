@@ -411,6 +411,20 @@ td a.table__link {
     .select-template {
         margin-bottom: 15px;
     }
+
+    .table__btn-edit span,
+    .table__btn-delete span{
+        display: none;
+    }
+    .table__btn-edit{
+        display: block;
+        padding: 8px 15px;
+    }
+
+    .table__btn-delete{
+        display: block;
+        padding: 8px 15px;
+    }
 }
 
 @media (max-width: 442px) {
